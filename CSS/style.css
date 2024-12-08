@@ -1,0 +1,32 @@
+/* Stijlregels div */
+div{
+    background-color: dodgerblue;
+    /* padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top:  15px;
+    margin-bottom: 15px; */
+
+    padding: 15px 15px 10px 15px;
+
+    border: 25px solid black;
+}
+
+span{
+    color: white;
+}
+
+/* 1em = 16px */
+
+h1{
+    font-size: 2em;
+}
+
+h2{
+    color: orange;
+}
+
+p{
+    color: brown;
+}
